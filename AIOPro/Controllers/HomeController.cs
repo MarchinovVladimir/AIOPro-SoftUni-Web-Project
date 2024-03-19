@@ -1,4 +1,4 @@
-﻿using AIOPro.Models;
+﻿using AIOPro.Web.ViewModels.Home;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
